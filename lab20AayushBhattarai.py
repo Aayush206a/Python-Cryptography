@@ -11,7 +11,7 @@ def implement_md5(text):
     md5_hash = hash_object.hexdigest()
     
     # Step 3: Output
-    print(f"Step 1: Message Digest generated.")
+    print(f"Message Digest generated........")
     print(f"Resulting MD5: {md5_hash}")
 
 implement_md5("AayushBhattaisGod")
